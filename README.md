@@ -23,7 +23,7 @@
 
 * Can download via Share menu in TikTok app.
   - No need to switch apps or go to a website.
-* Sends POST HTTP request to https://tiktokder.com
+* Sends POST HTTP request to https://lovetik.com
   - Then gets the link and downloads the video.
 
 ## How To Use
@@ -34,11 +34,11 @@
 
 ## Download
 
-You can download the Shortcut [here](https://www.icloud.com/shortcuts/17c54d373e784d2caf69ef21e4839eac).
+You can download the Shortcut [here](https://www.icloud.com/shortcuts/83f661ac621e4ea5b81e4d33092e93d0).
 
 ## Credits
 
-- [TikTokder](https://tiktokder.com/)
+- [lovetik](https://lovetik.com/)
 
 ## Support
 
